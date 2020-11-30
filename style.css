@@ -1,0 +1,29 @@
+.carousel-inner img {
+    max-height: 300px;
+    object-fit: cover;
+}
+
+main {
+    margin: auto;
+    max-width: 740px;
+}
+
+.card {
+    margin-top: 10px;
+    max-width: 720px;
+    -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.16), 0 0px 0px 0 rgba(0, 0, 0, 0.12)!important;
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.16), 0 0px 0px 0 rgba(0, 0, 0, 0.12)!important;
+}
+
+article {
+    max-width: 720px;
+    margin: auto;
+    padding-top:10px ;
+}
+
+.footer-copyright {
+    border-top: 2px solid rgba(255, 15, 15, 0.75);
+}
+footer{
+    border-top:2px solid rgba(255, 15, 15, 0.75) ;
+}
